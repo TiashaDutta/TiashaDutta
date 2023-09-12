@@ -1,4 +1,4 @@
-![logo](https://github.com/TiashaDutta/TiashaDutta/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/TiashaDutta/TiashaDutta/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tiasha Dutta</h1>
 <h3 align="center">I am a final year Computer Science Engineering student with a deep passion for software development and problem-solving. I am always eager to learn and explore new technologies, frameworks, and programming languages. I have an interest in designing and implementing robust, scalable, and efficient solutions for real-world problems.</h3>
 
