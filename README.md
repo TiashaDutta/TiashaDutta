@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiashadutta&label=Profile%20views&color=0e75b6&style=flat" alt="tiashadutta" /> </p>
 
-- 📫 How to reach me **tiashadutta842@gmail.com**
+📫 How to reach me **tiashadutta842@gmail.com**
 
-<h3 align="left">🖇️ Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiasha-dutta-58b960213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiasha dutta" height="30" width="40" /></a>
 <a href="https://fb.com/tiyashadutta.7334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tiasha dutta" height="30" width="40" /></a>
