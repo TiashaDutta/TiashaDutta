@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiashadutta&label=Profile%20views&color=0e75b6&style=flat" alt="tiashadutta" /> </p>
 
-📫 How to reach me **tiashadutta842@gmail.com**
+📫 How to reach me: **tiashadutta842@gmail.com**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
