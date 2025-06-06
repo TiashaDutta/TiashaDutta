@@ -3,7 +3,6 @@
 <h3 align="center"> I have completed my B.Tech in Computer Science and Engineering from JIS University with CGPA 8.82.
 Currently, I am pursuing M.Tech in Artificial Intelligence at Maulana Abul Kalam Azad University of Technology.
 
-
 I hold copyrights for two research-driven projects and have published research papers in the field of AI on TechRxiv (powered by IEEE) and Springer, contributing to advancements in smart detection systems and learning models.
 
 Seeking opportunities in AI, ML, and front-end development, I am eager to step into the professional realm and contribute my skills to a dynamic team.</h3>
