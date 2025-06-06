@@ -1,7 +1,10 @@
 ![logo](https://github.com/TiashaDutta/TiashaDutta/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tiasha Dutta</h1>
-<h3 align="center"> I have completed my B.Tech in Computer Science and Engineering from JIS University with a CGPA of 8.82. Currently, I am pursuing an M.Tech in Artificial Intelligence at Maulana Abul Kalam Azad University of Technology. My interests include artificial intelligence, machine learning, web development, and natural language processing.
+<h3 align="center"> I have completed my B.Tech in Computer Science and Engineering from JIS University with a CGPA of 8.82. Currently, I am pursuing an M.Tech in Artificial Intelligence at Maulana Abul Kalam Azad University of Technology. 
+
+My interests include artificial intelligence, machine learning, web development, and natural language processing.
 I hold copyrights for two research-driven projects and have published research papers in the field of AI on TechRxiv (powered by IEEE) and Springer, contributing to advancements in smart detection systems and learning models.
+
 Driven by a continuous eagerness to learn and explore new technologies, frameworks, and programming languages, I am now seeking opportunities in AI, ML, and front-end development. I look forward to stepping into the professional realm and contributing my skills to a dynamic team. </h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
