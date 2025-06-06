@@ -1,7 +1,7 @@
 ![logo](https://github.com/TiashaDutta/TiashaDutta/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Tiasha Dutta</h1>
 <h3 align="center"> I have completed my B.Tech in Computer Science and Engineering from JIS University with CGPA 8.82.
-  Currently, I am pursuing M.Tech in Artificial Intelligence at Maulana Abul Kalam Azad University of Technology. 
+Currently, I am pursuing M.Tech in Artificial Intelligence at Maulana Abul Kalam Azad University of Technology. 
 
 I hold copyrights for two research-driven projects and have published research papers in the field of AI on TechRxiv (powered by IEEE) and Springer, contributing to advancements in smart detection systems and learning models.
 
